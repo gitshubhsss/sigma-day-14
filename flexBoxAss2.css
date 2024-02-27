@@ -1,0 +1,22 @@
+nav {
+    height: 50px;
+    width: 900px;
+    background-color: pink;
+    border: 2px solid cornflowerblue;
+    border-radius: 10px;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+}
+.logo {
+    width: 12%;
+}
+
+.menu {
+    display: flex;
+
+}
+
+.menu p {
+    padding: 10px;
+}
