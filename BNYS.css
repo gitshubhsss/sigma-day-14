@@ -1,0 +1,70 @@
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    cursor: pointer;
+}
+.nav-brandlogo{
+    width: 260px;
+    height: 90px;
+    cursor: pointer;
+}
+.collage-logo{
+    width: 100%;
+    height: 100%;
+}
+.persanal-info{
+    width: 324px;
+    height: 79px;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    margin: 0px 10px;
+}
+.logo{
+    width: 20%;  
+}
+h6{
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 600;
+    color: #151a33;
+    margin: 1px;
+    font-family: "Poppins", sans-serif;
+}
+.email-id{
+    font-size: 18px;
+    color: #a4a4aa;
+    transition: all 0.3s ease 0s;
+    text-decoration: none;
+    cursor: pointer;
+}
+.phone-no{
+    font-size: 18px;
+    color: #a4a4aa;
+    transition: all 0.3s ease 0s;
+    text-decoration: none;
+    cursor: pointer;
+}
+.subnav{
+    background-color: #F7F8FC;
+    color: #3E3E3E;
+    height: 60PX;
+    font-size: 20px;
+}
+.links{
+    position: relative;
+    left: 150px;
+    width: 74%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.links p{
+    cursor: pointer;
+    font-weight: 900;
+    transition: 1s;
+}
+.links p:hover{
+    background-color: pink;
+}
