@@ -1,0 +1,21 @@
+.outer{
+    height: 400px;
+    width: 400px;
+    border: 3px solid cornflowerblue;
+    margin: 0 auto;
+    margin-top: 150px;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.inner-box{
+    margin: 15px 15px;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    text-align: center;
+    background-color: grey;
+    border-radius: 10PX;
+    font-size: 3em;
+}

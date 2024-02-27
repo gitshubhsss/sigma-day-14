@@ -68,3 +68,37 @@ h6{
 .links p:hover{
     background-color: pink;
 }
+section{
+    height: 250px;
+    background-image: url(naturopathi.webp);
+    background-size: cover;
+   
+}
+.title{
+   
+    position: relative;
+    top: 20px;
+    left: 248px;
+    height: 135px;
+    width: 70%;
+
+}
+.title h1{
+    font-size: 54px;
+    color: rgba(4, 28, 81, 0.785);
+}
+.section-nav{
+    display: flex;
+    justify-content: space-evenly;
+    height: 50px;
+    width: 202px;
+    cursor: pointer;
+}
+.section-nav p{
+    font-size: 1.2em;
+    font-family:sans-serif;
+    font-weight: bold;
+}
+#home{
+    color: orange;
+}
